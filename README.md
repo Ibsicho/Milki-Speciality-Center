@@ -1,6 +1,4 @@
-
-[ ] Create a GitHub repo (e.g., milki-speciality-center)
-- [ ] Push your code:
+[ ] Push your code:
 git init
 git add .
 git commit -m "Initial commit"
