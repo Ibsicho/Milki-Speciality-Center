@@ -1,4 +1,3 @@
-[ ] Push your code:
 git init
 git add .
 git commit -m "Initial commit"
